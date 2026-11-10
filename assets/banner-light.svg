@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Hossein Abdolmotallebi, software engineer. Java, Spring Boot, Angular. Building AI tools for finance.">
+<style>
+.t{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.line{stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 2.6s cubic-bezier(.5,0,.2,1) .3s forwards}
+.ev{opacity:0;animation:on .4s ease forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes on{to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.line{animation:none;stroke-dashoffset:0}.ev{animation:none;opacity:1}}
+</style>
+<rect width="1200" height="300" rx="16" fill="#FFFFFF"/>
+<text x="56" y="118" class="t" font-size="50" font-weight="800" letter-spacing="-1.5" fill="#0F1B2D">Hossein</text>
+<text x="56" y="170" class="t" font-size="50" font-weight="800" letter-spacing="-1.5" fill="#0F1B2D">Abdolmotallebi</text>
+<text x="58" y="214" class="t" font-size="21" fill="#5B6878">Software engineer. Java, Spring Boot, Angular.</text>
+<text x="58" y="243" class="t" font-size="21" fill="#5B6878">Building AI tools for finance.</text>
+<line x1="600" x2="1150" y1="50" y2="50" stroke="#EAEEF2" stroke-width="1"/><line x1="600" x2="1150" y1="100" y2="100" stroke="#EAEEF2" stroke-width="1"/><line x1="600" x2="1150" y1="150" y2="150" stroke="#EAEEF2" stroke-width="1"/><line x1="600" x2="1150" y1="200" y2="200" stroke="#EAEEF2" stroke-width="1"/><line x1="600" x2="1150" y1="250" y2="250" stroke="#EAEEF2" stroke-width="1"/>
+<g class="ev" style="animation-delay:1.0s"><line x1="730.5" x2="730.5" y1="50" y2="250" stroke="#E8A317" stroke-width="1" stroke-dasharray="3 4"/><circle cx="730.5" cy="163.7" r="5" fill="#E8A317"/></g><g class="ev" style="animation-delay:1.5s"><line x1="851.7" x2="851.7" y1="50" y2="250" stroke="#E8A317" stroke-width="1" stroke-dasharray="3 4"/><circle cx="851.7" cy="138.6" r="5" fill="#E8A317"/></g><g class="ev" style="animation-delay:2.1s"><line x1="1019.5" x2="1019.5" y1="50" y2="250" stroke="#E8A317" stroke-width="1" stroke-dasharray="3 4"/><circle cx="1019.5" cy="121.1" r="5" fill="#E8A317"/></g>
+<path class="line" d="M600.0 150.3 L609.3 153.5 L618.6 150.3 L628.0 152.8 L637.3 159.3 L646.6 162.1 L655.9 173.1 L665.3 166.9 L674.6 167.4 L683.9 162.4 L693.2 156.9 L702.5 155.6 L711.9 157.2 L721.2 160.1 L730.5 163.7 L739.8 179.3 L749.2 185.4 L758.5 174.2 L767.8 175.6 L777.1 171.3 L786.4 167.7 L795.8 175.6 L805.1 172.8 L814.4 158.0 L823.7 159.0 L833.1 155.7 L842.4 146.3 L851.7 138.6 L861.0 133.1 L870.3 131.7 L879.7 127.5 L889.0 126.8 L898.3 138.5 L907.6 131.7 L916.9 126.0 L926.3 124.3 L935.6 131.9 L944.9 127.0 L954.2 137.0 L963.6 127.9 L972.9 120.7 L982.2 120.9 L991.5 115.4 L1000.8 111.7 L1010.2 115.5 L1019.5 121.1 L1028.8 122.5 L1038.1 121.2 L1047.5 131.2 L1056.8 134.6 L1066.1 133.6 L1075.4 142.7 L1084.7 137.0 L1094.1 138.7 L1103.4 143.9 L1112.7 144.5 L1122.0 141.0 L1131.4 144.1 L1140.7 140.9 L1150.0 137.4" fill="none" stroke="#1F5EFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
